@@ -1,0 +1,16 @@
+Laser Juice Change Log
+
+2019-10-07 - 0.9.0
+Open source release targetting TouchDesigner 099.
+
+2017-07-01 - 0.8.1
+The final release targetting 088. TouchDesigner 099 will be
+recommended for future releases.
+
+* Bugfix for licensing
+* Bugfix for Audio In settings
+* OSC output support
+* Playback or loop an audio file
+
+2017-05-30 - 0.8.0
+Initial Release
