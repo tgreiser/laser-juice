@@ -1,6 +1,8 @@
 # Laser Juice
 ILDA laser abstract generator built with TouchDesigner. https://laserjuice.xyz/
 
+![screen shot](https://github.com/tgreiser/laser-juice/blob/master/laser-juice-screen.png?raw=true)
+
 ## About
 
 Laser Juice is donationware project of Prim8 Technology Consulting, LLC. If you need assistance, making a donation is a good way to request some of our time.
