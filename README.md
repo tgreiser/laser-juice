@@ -14,7 +14,7 @@ Laser Juice is donationware project of Prim8 Technology Consulting, LLC. If you 
 ## System Requirements
 
 - TouchDesigner 099 - build 18580+ - https://derivative.ca/download
-- For laser output: Ether Dream (v1 or 2) or Helios DAC.
+- For laser output: Ether Dream (v1 or 2), Helios DAC or Laser OS (Laser Dock / Laser Cube - Windows 64 bit support only)
 - GPU: 1gb GPU memory and Nvidia GeForce 600 series, AMD HD 7000 series, Intel HD4000 or better.
 
 ## Safety Reminder
